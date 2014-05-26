@@ -1,0 +1,24 @@
+#navigation {
+    float: left;
+    width: 18.75%;
+    height: 400px;
+    background-color: cornflowerblue;
+}
+
+#content {
+    float: left;
+    width: 62.5%;
+    height: 400px;
+    background-color: blue;
+}
+
+#images {
+    float: left;
+    width: 18.75%;
+    height: 400px;
+    background-color: cornflowerblue;
+}
+
+#footer {
+    clear: both;
+}

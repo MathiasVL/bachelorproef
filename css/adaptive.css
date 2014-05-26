@@ -1,0 +1,45 @@
+body {
+	font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
+	margin: 0;
+	padding: 0;
+	color: #000;
+}
+
+#wrapper {
+    width: 90%;
+    margin: 0 auto;
+}
+
+#header {
+    text-align: center;
+    background-color: buttonface;
+    height: 90px;
+}
+
+#navigation {
+    float: left;
+    width: 30%;
+    height: 200px;
+    background-color: cornflowerblue;
+}
+
+#content {
+    float: left;
+    width: 70%;
+    height: 200px;
+    background-color: blue;
+}
+
+#images {
+    clear: both;
+    width: 100%;
+    height: 100px;
+    background-color: cornflowerblue;
+}
+
+#footer {
+    text-align: center;
+    background-color: darkcyan;
+    height: 80px;
+    margin-top: -20px;
+}
